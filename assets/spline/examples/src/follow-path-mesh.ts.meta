@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "f58d1645-cf2c-4296-8a18-6dc74dcfa3b5",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/spline/examples/src/follow-path-mesh.js",
+    "simulateGlobals": []
+  }
+}

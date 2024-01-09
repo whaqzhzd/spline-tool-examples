@@ -1,0 +1,14 @@
+{
+  "__version__": "1.0.5",
+  "layer": [
+    {
+      "name": "canvas_18",
+      "value": 262144
+    },
+    {
+      "name": "canvas_19",
+      "value": 524288
+    }
+  ],
+  "custom_joint_texture_layouts": []
+}

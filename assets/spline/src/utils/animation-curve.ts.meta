@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "6e273b71-50a4-4d1b-a2bf-ea3fcf12d9df",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/spline/src/utils/animation-curve.js",
+    "simulateGlobals": []
+  }
+}

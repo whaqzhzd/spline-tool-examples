@@ -1,0 +1,43 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "14b3fc65-393a-4e3d-b76c-158d962d853b",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "14b3fc65-393a-4e3d-b76c-158d962d853b@6c48a",
+      "displayName": "LFX_Mesh_0001",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "14b3fc65-393a-4e3d-b76c-158d962d853b",
+        "visible": false
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "14b3fc65-393a-4e3d-b76c-158d962d853b@6c48a",
+    "fixAlphaTransparencyArtifacts": false,
+    "hasAlpha": false
+  }
+}

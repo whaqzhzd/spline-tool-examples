@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "8109be70-d35c-46b6-90b6-f962e43b847a",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/road-tool/src/road-tool.js",
+    "simulateGlobals": []
+  }
+}

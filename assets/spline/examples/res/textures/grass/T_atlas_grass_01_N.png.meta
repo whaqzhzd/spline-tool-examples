@@ -1,0 +1,47 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "261dce67-aacd-44e9-ad09-0858f1759b09",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "261dce67-aacd-44e9-ad09-0858f1759b09@6c48a",
+      "displayName": "T_atlas_grass_01_N",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "261dce67-aacd-44e9-ad09-0858f1759b09",
+        "visible": false
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "261dce67-aacd-44e9-ad09-0858f1759b09@6c48a",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "presetId1686648673157"
+    },
+    "fixAlphaTransparencyArtifacts": false,
+    "hasAlpha": false
+  }
+}

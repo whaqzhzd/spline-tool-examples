@@ -1,0 +1,47 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "fbfeadc8-8ca8-4826-82cb-ae26ba40f0e1",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "fbfeadc8-8ca8-4826-82cb-ae26ba40f0e1@6c48a",
+      "displayName": "T_Ground_Grass_01_N",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fbfeadc8-8ca8-4826-82cb-ae26ba40f0e1",
+        "visible": false
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "fbfeadc8-8ca8-4826-82cb-ae26ba40f0e1@6c48a",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "presetId1686648673157"
+    },
+    "fixAlphaTransparencyArtifacts": false,
+    "hasAlpha": false
+  }
+}

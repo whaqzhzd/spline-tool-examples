@@ -1,0 +1,19 @@
+{
+  "name": "spline-tool",
+  "type": "3d",
+  "uuid": "daae12e8-1fe2-4388-9af3-62f403a4ab18",
+  "version": "3.8.0",
+  "scripts": {
+    "deploy": "git-deploy"
+  },
+  "git-deploy": {
+    "deploy_dir": "build/web-mobile",
+    "repo": "git@github.com:2youyou2/spline-tool-examples.git"
+  },
+  "devDependencies": {
+    "git-deploy": "github:2youyou2/git-deploy"
+  },
+  "creator": {
+    "version": "3.8.0"
+  }
+}

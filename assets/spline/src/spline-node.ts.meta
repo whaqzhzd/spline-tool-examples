@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "ea25f822-2c4f-4af7-8051-29038143aae0",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/spline/src/spline-node.js",
+    "simulateGlobals": []
+  }
+}

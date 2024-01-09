@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "ec9200e8-7d66-4703-accf-078f71ffeedd",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/spline/src/editor/base/gizmo.js",
+    "simulateGlobals": []
+  }
+}

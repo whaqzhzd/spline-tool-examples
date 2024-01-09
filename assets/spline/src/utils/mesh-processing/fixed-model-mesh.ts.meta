@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "45f87b6e-1687-46d5-9bfb-29c78b649867",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/spline/src/utils/mesh-processing/fixed-model-mesh.js",
+    "simulateGlobals": []
+  }
+}

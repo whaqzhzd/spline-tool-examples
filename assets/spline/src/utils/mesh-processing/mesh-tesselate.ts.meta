@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "bf32ff10-8860-4cd2-9392-ff1a70cf5bfa",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/spline/src/utils/mesh-processing/mesh-tesselate.js",
+    "simulateGlobals": []
+  }
+}

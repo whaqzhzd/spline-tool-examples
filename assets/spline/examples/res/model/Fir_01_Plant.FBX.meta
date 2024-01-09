@@ -1,0 +1,187 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "84dc9453-08fd-42f4-bc93-9bba048a05d3",
+  "files": [],
+  "subMetas": {
+    "ecae8": {
+      "importer": "gltf-mesh",
+      "uuid": "84dc9453-08fd-42f4-bc93-9bba048a05d3@ecae8",
+      "displayName": "",
+      "id": "ecae8",
+      "name": "Fir_01_plant_LOD1.mesh",
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 361
+      }
+    },
+    "a9f42": {
+      "importer": "gltf-mesh",
+      "uuid": "84dc9453-08fd-42f4-bc93-9bba048a05d3@a9f42",
+      "displayName": "",
+      "id": "a9f42",
+      "name": "Fir_01_plant_LOD0.mesh",
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 757
+      }
+    },
+    "a2364": {
+      "importer": "gltf-embeded-image",
+      "uuid": "84dc9453-08fd-42f4-bc93-9bba048a05d3@a2364",
+      "displayName": "",
+      "id": "a2364",
+      "name": "Map #1.image",
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "fixAlphaTransparencyArtifacts": true,
+        "hasAlpha": true,
+        "type": "texture"
+      }
+    },
+    "6e70c": {
+      "importer": "texture",
+      "uuid": "84dc9453-08fd-42f4-bc93-9bba048a05d3@6e70c",
+      "displayName": "",
+      "id": "6e70c",
+      "name": "Map #1.texture",
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "84dc9453-08fd-42f4-bc93-9bba048a05d3@a2364"
+      }
+    },
+    "a801f": {
+      "importer": "gltf-material",
+      "uuid": "84dc9453-08fd-42f4-bc93-9bba048a05d3@a801f",
+      "displayName": "",
+      "id": "a801f",
+      "name": "M_Bark_Fir_01.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "2f5ad": {
+      "importer": "gltf-material",
+      "uuid": "84dc9453-08fd-42f4-bc93-9bba048a05d3@2f5ad",
+      "displayName": "",
+      "id": "2f5ad",
+      "name": "M_leaves_Fir.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 1
+      }
+    },
+    "3bbaf": {
+      "importer": "gltf-scene",
+      "uuid": "84dc9453-08fd-42f4-bc93-9bba048a05d3@3bbaf",
+      "displayName": "",
+      "id": "3bbaf",
+      "name": "Fir_01_Plant.prefab",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #1",
+        "uri": "84dc9453-08fd-42f4-bc93-9bba048a05d3@a2364"
+      }
+    ],
+    "redirect": "84dc9453-08fd-42f4-bc93-9bba048a05d3@3bbaf",
+    "assetFinder": {
+      "meshes": [
+        "84dc9453-08fd-42f4-bc93-9bba048a05d3@ecae8",
+        "84dc9453-08fd-42f4-bc93-9bba048a05d3@a9f42"
+      ],
+      "skeletons": [],
+      "textures": [
+        "84dc9453-08fd-42f4-bc93-9bba048a05d3@6e70c"
+      ],
+      "materials": [
+        "84dc9453-08fd-42f4-bc93-9bba048a05d3@a801f",
+        "84dc9453-08fd-42f4-bc93-9bba048a05d3@2f5ad"
+      ],
+      "scenes": [
+        "84dc9453-08fd-42f4-bc93-9bba048a05d3@3bbaf"
+      ]
+    },
+    "legacyFbxImporter": true,
+    "fbx": {
+      "smartMaterialEnabled": false,
+      "matchMeshNames": false
+    },
+    "mountAllAnimationsOnPrefab": true,
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}
